@@ -117,6 +117,12 @@ powershell -ExecutionPolicy Bypass -File ./scripts/build-desktop-r2t2.ps1 -Relea
 
 ---
 
+## 赞助（还没开通）
+
+核心功能对所有用户**完全一致**，不设功能门槛。如果以后开赞助，买到的是「认可 + 支持渠道 +
+开发者工具许可」，**不是核心功能解锁** —— 这一点写在 `CONTRIBUTING.md` 里也不会变。
+目前赞助入口**尚未开通**（`.github/FUNDING.yml` 还是注释状态）。
+
 ## 反馈
 
 有问题请开 [Issue](https://github.com/NekoTumble/VeilCue/issues)，附上 `logs\` 目录里当天的日志。
